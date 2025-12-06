@@ -1,4 +1,4 @@
-# GEMINI-CLI-SETUP
+# GEMINI-CLI-SETUP 💻
 
 # Gemini CLI Complete Guide: Setup & Configuration
 
